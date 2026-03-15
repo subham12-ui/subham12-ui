@@ -25,6 +25,12 @@
   </a>
   <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-00D4FF?style=flat-square&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ffaa?style=flat-square"/>
+  <a href="https://drive.google.com/file/d/1NTBop9RqwMnYHtD4vGVVoKA9RAMQhlps/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Resume-Download%20PDF-FF5722?style=flat-square&logo=googledrive&logoColor=white"/>
+  </a>
+  <a href="https://subham12-ui.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Live-7B5EA7?style=flat-square&logo=googlechrome&logoColor=white"/>
+  </a>
 </div>
 
 ---
@@ -59,6 +65,8 @@ subham = {
     "languages"    : {"Bengali": "Native", "English": "Professional", "Hindi": "Conversational"},
 
     "open_to"      : ["Full-Time", "Part-Time", "Internship", "Remote / Hybrid"],
+    "resume"       : "https://drive.google.com/file/d/1NTBop9RqwMnYHtD4vGVVoKA9RAMQhlps/view",
+    "portfolio"    : "https://subham12-ui.github.io",
     "fun_fact"     : "📌 Every dataset tells a story — I find it.",
 }
 ```
@@ -183,6 +191,8 @@ Self-learning EDA project using real public datasets from Kaggle to build analys
 | 💼 LinkedIn | [subham-rout-6b09a4281](https://linkedin.com/in/subham-rout-6b09a4281) |
 | 🐙 GitHub | [subham12-ui](https://github.com/subham12-ui) |
 | 📞 Phone | +91 90518 96178 |
+| 📄 Resume (PDF) | [Download from Google Drive](https://drive.google.com/file/d/1NTBop9RqwMnYHtD4vGVVoKA9RAMQhlps/view?usp=drive_link) |
+| 🌐 Portfolio | [subham12-ui.github.io](https://subham12-ui.github.io) |
 
 </div>
 
@@ -192,6 +202,8 @@ Self-learning EDA project using real public datasets from Kaggle to build analys
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhamrout2345@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subham12-ui)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/subhamrout)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1NTBop9RqwMnYHtD4vGVVoKA9RAMQhlps/view?usp=drive_link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7B5EA7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://subham12-ui.github.io)
 
 </div>
 
